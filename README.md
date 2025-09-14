@@ -1,16 +1,15 @@
 # Hi, I'm Sumit Sarker  
 
-I am an undergraduate student in Oceanography at Noakhali Science and Technology University (NSTU), Bangladesh, graduating in August 2025 with a CGPA of 3.81/4. As a Research Assistant at the National Oceanographic and Maritime Institute (NOAMI), my work focuses on marine heatwaves, coastal vulnerability, flood mapping, and microplastic pollution. I combine remote sensing, GIS, laboratory analysis, and community-based research to address pressing environmental challenges in Bangladesh and the Bay of Bengal region.  
+I am an Oceanography graduate from Noakhali Science and Technology University (NSTU), Bangladesh, where I completed my B.Sc. (Hons) in August 2025 with a CGPA of 3.81/4. Currently serving as a Research Assistant at the National Oceanographic and Maritime Institute (NOAMI), I specialize in marine heatwaves, coastal vulnerability, flood risk mapping, and microplastic pollution. My expertise lies in integrating remote sensing, GIS, laboratory analysis, and community-based fieldwork to investigate complex environmental processes. Through this multidisciplinary approach, I aim to contribute to sustainable marine resource management and climate resilience in Bangladesh and the Bay of Bengal region.
 
 ---
 
 ## 🎓 Undergraduate Thesis  
 **Detection and Analysis of Marine Heatwaves in the Bay of Bengal: ENSO, IOD, and Chlorophyll Dynamics**  
-- Analyzed sea surface temperature anomalies from 1982–2025 using satellite data.  
-- Investigated marine heatwave impacts on phytoplankton productivity and fishing communities.  
-- Proposed adaptive strategies to mitigate ecological and socio-economic risks.  
 
----
+Marine heatwaves (MHWs) are increasingly recognized as one of the most pressing climate-related threats to marine ecosystems and coastal communities. This thesis identified and analyzed MHWs in the Bay of Bengal from 1982 to 2025 using satellite-derived sea surface temperature anomalies. The study examined temporal patterns, intensity, and duration of events, while also investigating the influence of large-scale climate drivers such as the El Niño–Southern Oscillation (ENSO) and the Indian Ocean Dipole (IOD). Ecological impacts were assessed through chlorophyll-a concentration trends, revealing significant declines in primary productivity during El Niño–associated heatwaves. In addition, the research highlighted the socio-economic risks posed to small-scale fisheries and dependent coastal populations. The findings emphasize the escalating vulnerability of the Bay of Bengal under a changing climate and underscore the need for enhanced monitoring, early-warning systems, and adaptive management strategies to safeguard both ecosystems and livelihoods.  
+
+
 
 ## 🔬 Research Experience  
 - **Flood Susceptibility Mapping (NOAMI)** – Remote sensing, MCDA, AHP, HEC-RAS, field validation.  
@@ -64,9 +63,11 @@ Analysis of thermal patterns in Comilla (2020–2024) using Google Earth Engine 
 ---
 
 ## 🏆 Awards & Achievements  
-- 🥇 1st Prize – NOAMI Ocean Olympiad 2024  
-- 🏆 Best Poster Presenter – Comilla University Science Festival 2024  
-- 🎖️ Multiple presentations at national and international conferences  
+- 🥇 **1st Prize** – NOAMI Ocean Olympiad, 2024  
+- 🏆 **Best Poster Presenter** – Comilla University Science Festival, 2024  
+- 🎖️ **Selected Presenter** – Multiple national and international conferences on oceanography, climate change, and environmental sustainability  
+- 📜 **Recognition** – Academic excellence for maintaining a CGPA of 3.81/4 in B.Sc. (Hons) in Oceanography  
+
 
 ---
 
